@@ -1,1 +1,1 @@
-# Typescript_not_typewritter
+# 100 Days of Coding Challenge
