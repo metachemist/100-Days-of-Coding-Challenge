@@ -5,7 +5,7 @@ This is your starting point to transition from a complete beginner to a confiden
 
 ## 🎯 Challenge Objective
 
-The goal is simple: dedicate a portion of your day to learning and coding for the next 100 days. By the end of this journey, you will have a solid understanding of programming languages like javascript, and typescript, making you a proficient developer. 🌈
+The goal is simple: dedicate a portion of your day to learning and coding for the next 100 days. By the end of this journey, you will have a solid understanding of programming languages like javascript, and typescript, making you a proficient developer. 
 
 ## 📚 What You Will Become?
 
@@ -13,19 +13,19 @@ The goal is simple: dedicate a portion of your day to learning and coding for th
 
 ## 📖 How to Approach This Challenge
 
-1. **Understand the Topic:** Begin each day by learning the concept or topic assigned for that day. 📚
-2. **Code Daily:** Apply what you've learned by coding. The real understanding comes from doing. 💻
-3. **Review and Reflect:** End your day by reviewing what you've learned and reflect on how you can use it in real-world scenarios. 🤔
-4. **Engage with the Community:** Share your progress, ask questions, and collaborate with others taking the challenge on Linkedin. 👥
-5. **Stay Consistent:** Consistency is key. Make learning a habit, and you'll see progress. 🌱
+1. **Understand the Topic:** Begin each day by learning the concept or topic assigned for that day. 
+2. **Code Daily:** Apply what you've learned by coding. The real understanding comes from doing. 
+3. **Review and Reflect:** End your day by reviewing what you've learned and reflect on how you can use it in real-world scenarios. 
+4. **Engage with the Community:** Share your progress, ask questions, and collaborate with others taking the challenge on Linkedin. 
+5. **Stay Consistent:** Consistency is key. Make learning a habit, and you'll see progress. 
 
 ## 🤝 Join the Community
 
-Join our community on [Discord](https://discord.gg/3KmgbA8jZV) to connect with fellow learners, share your progress, and find support throughout your learning journey. Together, we grow stronger! 🌟
+Join our community on [Discord](https://discord.gg/3KmgbA8jZV) to connect with fellow learners, share your progress, and find support throughout your learning journey. Together, we grow stronger! 
 
 ## 📝 Daily Log
 
-Keep a daily log of your progress. Share your achievements, no matter how small, and inspire others to keep going. 💪
+Keep a daily log of your progress. Share your achievements, no matter how small, and inspire others to keep going. 
 
 *Happy Coding, and see you at the finish line!* 🏁
 *Please Star the Repositry🌟*
