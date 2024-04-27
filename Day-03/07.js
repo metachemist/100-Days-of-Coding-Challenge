@@ -1,0 +1,13 @@
+"use strict";
+let num1 = 4;
+let num2 = 4;
+console.log(num1 + num2);
+let num3 = 4;
+let num4 = 2;
+console.log(num3 * num4);
+let num5 = 16;
+let num6 = 2;
+console.log(num5 / num6);
+let num7 = 16;
+let num8 = 8;
+console.log(num7 - num8);
