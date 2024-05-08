@@ -1,4 +1,4 @@
-let favTransports: string[] = ["Porsche 991", "Kawasaki ninja H2R", "Mclaren P1"];
+let favTransports: string[] = ["Porsche 911", "Kawasaki ninja H2R", "Mclaren P1"];
 
 //lets not use for loop 
 
